@@ -1,0 +1,1 @@
+mongodb+srv://siddhant:<dbsiddhantpassword>@cluster0.0kz2cjn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
